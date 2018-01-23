@@ -1,6 +1,6 @@
-<center>
-	![bubbstore](http://blog.bubbstore.com.br/wp-content/uploads/2017/02/logo@2x.png)
-</center>
+<p align="center">
+  <img src="http://blog.bubbstore.com.br/wp-content/uploads/2017/02/logo@2x.png">
+</p>
 
 # Ícones para e-commerce 
 
