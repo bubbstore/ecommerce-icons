@@ -31,7 +31,7 @@ Este repositório tem como objetivo reunir os mais diversos ícones que fazem pa
 - [RD Station](https://github.com/bubbstore/ecommerce-icons/blob/master/Servi%C3%A7os/rdstation.svg)
 - [Softvar](https://github.com/bubbstore/ecommerce-icons/blob/master/Servi%C3%A7os/softvar.svg)
 - [Tiny ERP](https://github.com/bubbstore/ecommerce-icons/blob/master/Servi%C3%A7os/tiny-erp.svg)
-- [TNT](https://github.com/bubbstore/ecommerce-icons/blob/master/Servi%C3%A7os/tiny-erp.svg)
+- [TNT](https://github.com/bubbstore/ecommerce-icons/blob/master/Servi%C3%A7os/tnt.svg)
 
 ### Marketplaces
 
