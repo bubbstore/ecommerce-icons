@@ -71,6 +71,7 @@ Este repositório tem como objetivo reunir os mais diversos ícones que fazem pa
 - [Pagar.me](https://github.com/bubbstore/ecommerce-icons/blob/master/Gateways%20e%20Adquirentes/pagarme.svg)
 - [PayU](https://github.com/bubbstore/ecommerce-icons/blob/master/Gateways%20e%20Adquirentes/payu.svg)
 - [PayPal](https://github.com/bubbstore/ecommerce-icons/blob/master/Gateways%20e%20Adquirentes/paypal.svg)
+- [Rede](https://github.com/bubbstore/ecommerce-icons/blob/master/Gateways%20e%20Adquirentes/rede.svg)
 
 ### Plataformas
 
