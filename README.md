@@ -10,6 +10,7 @@ Este repositório tem como objetivo reunir os mais diversos ícones que fazem pa
 
 - [Anymarket](https://github.com/bubbstore/ecommerce-icons/blob/master/Servi%C3%A7os/anymarket.svg)
 - [Bling](https://github.com/bubbstore/ecommerce-icons/blob/master/Servi%C3%A7os/bling.svg)
+- [Buscapé](https://github.com/bubbstore/ecommerce-icons/blob/master/Servi%C3%A7os/buscape.svg)
 - [Chaordic](https://github.com/bubbstore/ecommerce-icons/blob/master/Servi%C3%A7os/chaordic.svg)
 - [Clearsale Start](https://github.com/bubbstore/ecommerce-icons/blob/master/Servi%C3%A7os/clearsale-start.svg)
 - [Clearsale Total](https://github.com/bubbstore/ecommerce-icons/blob/master/Servi%C3%A7os/clearsale-total.svg)
@@ -28,10 +29,12 @@ Este repositório tem como objetivo reunir os mais diversos ícones que fazem pa
 - [Mailchimp](https://github.com/bubbstore/ecommerce-icons/blob/master/Servi%C3%A7os/mailchimp.svg)
 - [Mailee](https://github.com/bubbstore/ecommerce-icons/blob/master/Servi%C3%A7os/mailee.svg)
 - [Mercado Backoffice](https://github.com/bubbstore/ecommerce-icons/blob/master/Servi%C3%A7os/mercado-backoffice-icon.svg)
+- [Olist](https://github.com/bubbstore/ecommerce-icons/blob/master/Servi%C3%A7os/olist.svg)
 - [RD Station](https://github.com/bubbstore/ecommerce-icons/blob/master/Servi%C3%A7os/rdstation.svg)
 - [Softvar](https://github.com/bubbstore/ecommerce-icons/blob/master/Servi%C3%A7os/softvar.svg)
 - [Tiny ERP](https://github.com/bubbstore/ecommerce-icons/blob/master/Servi%C3%A7os/tiny-erp.svg)
 - [TNT](https://github.com/bubbstore/ecommerce-icons/blob/master/Servi%C3%A7os/tnt.svg)
+- [Zendesk](https://github.com/bubbstore/ecommerce-icons/blob/master/Servi%C3%A7os/zendesk.svg)
 
 ### Marketplaces
 
