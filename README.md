@@ -72,6 +72,15 @@ Este repositório tem como objetivo reunir os mais diversos ícones que fazem pa
 - [PayU](https://github.com/bubbstore/ecommerce-icons/blob/master/Gateways%20e%20Adquirentes/payu.svg)
 - [PayPal](https://github.com/bubbstore/ecommerce-icons/blob/master/Gateways%20e%20Adquirentes/paypal.svg)
 
+### Plataformas
+
+- [Bubbstore](https://github.com/bubbstore/ecommerce-icons/blob/master/Plataformas/bubbstore.svg)
+- [Magento](https://github.com/bubbstore/ecommerce-icons/blob/master/Plataformas/magento.svg)
+- [Minestore](https://github.com/bubbstore/ecommerce-icons/blob/master/Plataformas/minestore.svg)
+- [Tray](https://github.com/bubbstore/ecommerce-icons/blob/master/Plataformas/tray.svg)
+- [Vtex](https://github.com/bubbstore/ecommerce-icons/blob/master/Plataformas/vtex.svg)
+- [Xtech](https://github.com/bubbstore/ecommerce-icons/blob/master/Plataformas/xtech.svg)
+
 ## Contribuindo
 
 Contribuições são **bem vindas** e serão totalmente **creditadas**.
@@ -81,3 +90,4 @@ Nós aceitamos contribuições via **Pull Requests** no [Github](https://github.
 ## Créditos
 
 - [Jica Hernandez](https://github.com/jicahernandez)
+- [Lucas Colette](https://github.com/lucascolette)
