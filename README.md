@@ -6,6 +6,10 @@
 
 Este repositório tem como objetivo reunir os mais diversos ícones que fazem parte do ecossistema do e-commerce brasileiro.
 
+## Página oficial
+
+[https://bubbstore.github.io/ecommerce-icons/](https://bubbstore.github.io/ecommerce-icons/)
+
 ### Serviços
 
 - [Anymarket](https://github.com/bubbstore/ecommerce-icons/blob/master/Servi%C3%A7os/anymarket.svg)
@@ -96,3 +100,4 @@ Nós aceitamos contribuições via **Pull Requests** no [Github](https://github.
 
 - [Jica Hernandez](https://github.com/jicahernandez)
 - [Lucas Colette](https://github.com/lucascolette)
+- [Felipe Lopes](https://github.com/felops)
