@@ -81,6 +81,7 @@ Este repositório tem como objetivo reunir os mais diversos ícones que fazem pa
 - [PayPal](https://github.com/bubbstore/ecommerce-icons/blob/master/gateways-e-adquirentes/paypal.svg)
 - [Rede](https://github.com/bubbstore/ecommerce-icons/blob/master/gateways-e-adquirentes/rede.svg)
 - [Stripe](https://github.com/bubbstore/ecommerce-icons/blob/master/gateways-e-adquirentes/stripe.svg)
+- [Getnet](https://github.com/bubbstore/ecommerce-icons/blob/master/gateways-e-adquirentes/getnet.svg)
 
 ### plataformas
 
