@@ -1,1 +1,14 @@
-<svg enable-background="new 0 0 60 40" height="40" viewBox="0 0 60 40" width="60" xmlns="http://www.w3.org/2000/svg"><switch><foreignObject height="1" requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" width="1"/><g><path d="m60 35c0 2.75-2.25 5-5 5h-50c-2.75 0-5-2.25-5-5v-30c0-2.75 2.25-5 5-5h50c2.75 0 5 2.25 5 5z" fill="#ffed00"/><path d="m55 0h-50c-2.75 0-5 2.25-5 5v30c0 2.75 2.25 5 5 5h50c2.75 0 5-2.25 5-5v-30c0-2.75-2.25-5-5-5zm0 1c2.206 0 4 1.794 4 4v30c0 2.206-1.794 4-4 4h-50c-2.206 0-4-1.794-4-4v-30c0-2.206 1.794-4 4-4z" fill="#d0d0d0" opacity=".6"/><g fill="#225198"><path d="m19.529 23.647 10.468 6.978 10.474-6.979-4.396-2.936-4.997 3.33 2.439 1.63-3.52 2.347-6.554-4.372 10.943-7.295-1.957-1.306z"/><path d="m36.557 12.298 1.957 1.306 2.169-1.448v-2.607zm-10.949 11.349 1.957 1.306 12.905-8.608-10.474-6.97-10.467 6.971 4.388 2.93 5.001-3.336-2.439-1.609 3.515-2.349 6.561 4.371zm-6.29 4.196v2.607l4.125-2.748-1.957-1.306z"/></g></g></switch></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="40px" viewBox="0 0 60 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="banco-do-brasil">
+            <path d="M60,35 C60,37.75 57.75,40 55,40 L5,40 C2.25,40 0,37.75 0,35 L0,5 C0,2.25 2.25,0 5,0 L55,0 C57.75,0 60,2.25 60,5 L60,35 Z" id="Path" fill="#FFED00"></path>
+            <g id="Group" transform="translate(19.000000, 9.000000)" fill="#225198">
+                <path d="M0.529,14.647 L13.429,6.044 L15.386,7.35 L4.443,14.645 L10.997,19.017 L14.517,16.67 L12.078,15.04 L17.075,11.71 L21.471,14.646 L10.997,21.625 L0.529,14.647 Z M17.557,3.298 L21.683,0.549 L21.683,3.156 L19.514,4.604 L17.557,3.298 Z M6.608,14.647 L17.555,7.353 L10.994,2.982 L7.479,5.331 L9.918,6.94 L4.917,10.276 L0.529,7.346 L10.996,0.375 L21.47,7.345 L8.565,15.953 L6.608,14.647 Z M0.318,18.843 L2.486,17.396 L4.443,18.702 L0.318,21.45 L0.318,18.843 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
