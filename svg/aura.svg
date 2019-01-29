@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="74px" height="50px" viewBox="0 0 74 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M0,29.8245186 L0,6.25 C0,2.8125 2.775,0 6.16666667,0 L67.8333333,0 C71.225,0 74,2.8125 74,6.25 L74,31.5345186 C60.5172,26.9795186 36.7706,20.3482686 0,29.8245186 Z" id="Combined-Shape" fill="#152884"></path>
+        <path d="M0,29.3325 L0,43.75 C0,47.1875 2.775,50 6.16666667,50 L67.8333333,50 C71.225,50 74,47.1875 74,43.75 L74,31.0425 C60.5172,26.4875 36.7706,19.85625 0,29.3325 Z" id="Path" fill="#FFED00"></path>
+        <path d="M0,28.2875 L0,35.58625 C36.7706,26.11125 60.5172,32.7425 74,37.295 L74,29.6725 C64.6032333,26.14 36.3722333,18.2325 0,28.2875 Z" id="Path" fill="#EB212E"></path>
+        <path d="M23.4025,23.94875 C25.2512667,18.77 29.4828333,14.2975 36.8359667,14.34625 C44.1878667,14.39625 49.0916,18.6525 50.4149667,24.22125 C40.9405,23.22375 34.6246,23.04875 23.4025,23.94875 Z" id="Path" fill="#FFED00"></path>
+    </g>
+</svg>

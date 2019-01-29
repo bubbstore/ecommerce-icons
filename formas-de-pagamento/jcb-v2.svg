@@ -1,1 +1,29 @@
-<svg enable-background="new 0 0 60 40" height="40" viewBox="0 0 60 40" width="60" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><linearGradient id="a" gradientUnits="userSpaceOnUse" x1="35.7648" x2="42.8027" y1="19.9924" y2="19.9924"><stop offset="0" stop-color="#007d40"/><stop offset="1" stop-color="#53b232"/></linearGradient><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="26.2806" x2="33.7527" y1="20" y2="20"><stop offset="0" stop-color="#762a2e"/><stop offset="1" stop-color="#e30138"/></linearGradient><linearGradient id="c" gradientUnits="userSpaceOnUse" x1="16.9946" x2="24.4667" y1="19.9834" y2="19.9834"><stop offset="0" stop-color="#1b2d74"/><stop offset="1" stop-color="#006bb6"/></linearGradient><switch><foreignObject height="1" requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" width="1"/><g><path d="m60 35c0 2.75-2.25 5-5 5h-50c-2.75 0-5-2.25-5-5v-30c0-2.75 2.25-5 5-5h50c2.75 0 5 2.25 5 5z" fill="#f5f5f5"/><path d="m55 0h-50c-2.75 0-5 2.25-5 5v30c0 2.75 2.25 5 5 5h50c2.75 0 5-2.25 5-5v-30c0-2.75-2.25-5-5-5zm0 1c2.206 0 4 1.794 4 4v30c0 2.206-1.794 4-4 4h-50c-2.206 0-4-1.794-4-4v-30c0-2.206 1.794-4 4-4z" fill="#fff"/><path d="m38.579 10.915v-.002c-1.664 0-3.029 1.348-3.029 3.029l-.017 15.129h4.444c1.664 0 3.029-1.348 3.029-3.029v-15.127z" fill="url(#a)"/><path d="m29.309 10.914c-1.664 0-3.029 1.348-3.029 3.029v15.144h4.444c1.664 0 3.029-1.348 3.029-3.029v-15.144z" fill="url(#b)"/><path d="m20.039 10.914c-1.664 0-3.029 1.348-3.029 3.029l-.016 15.111h4.444c1.664 0 3.029-1.348 3.029-3.029v-15.111z" fill="url(#c)"/></g></switch></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="40px" viewBox="0 0 60 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="3.10183327%" y1="50.0022029%" x2="97.2795397%" y2="50.0022029%" id="linearGradient-1">
+            <stop stop-color="#007D40" offset="0%"></stop>
+            <stop stop-color="#53B232" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0.00802890405%" y1="49.9972487%" x2="99.9959855%" y2="49.9972487%" id="linearGradient-2">
+            <stop stop-color="#762A2E" offset="0%"></stop>
+            <stop stop-color="#E30138" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0.00802890405%" y1="49.9966924%" x2="99.9959855%" y2="49.9966924%" id="linearGradient-3">
+            <stop stop-color="#1B2D74" offset="0%"></stop>
+            <stop stop-color="#006BB6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="jcb-v2">
+            <path d="M60,35 C60,37.75 57.75,40 55,40 L5,40 C2.25,40 0,37.75 0,35 L0,5 C0,2.25 2.25,0 5,0 L55,0 C57.75,0 60,2.25 60,5 L60,35 Z" id="Path" fill="#F5F5F5"></path>
+            <path d="M55,0 L5,0 C2.25,0 0,2.25 0,5 L0,35 C0,37.75 2.25,40 5,40 L55,40 C57.75,40 60,37.75 60,35 L60,5 C60,2.25 57.75,0 55,0 Z M55,1 C57.206,1 59,2.794 59,5 L59,35 C59,37.206 57.206,39 55,39 L5,39 C2.794,39 1,37.206 1,35 L1,5 C1,2.794 2.794,1 5,1 L55,1 Z" id="Shape" fill="#D0D0D0" fill-rule="nonzero"></path>
+            <path d="M38.579,10.915 L38.579,10.913 C36.915,10.913 35.55,12.261 35.55,13.942 L35.533,29.071 L39.977,29.071 C41.641,29.071 43.006,27.723 43.006,26.042 L43.006,10.915 L38.579,10.915 Z" id="Path" fill="url(#linearGradient-1)"></path>
+            <path d="M29.309,10.914 C27.645,10.914 26.28,12.262 26.28,13.943 L26.28,29.087 L30.724,29.087 C32.388,29.087 33.753,27.739 33.753,26.058 L33.753,10.914 L29.309,10.914 Z" id="Path" fill="url(#linearGradient-2)"></path>
+            <path d="M20.039,10.914 C18.375,10.914 17.01,12.262 17.01,13.943 L16.994,29.054 L21.438,29.054 C23.102,29.054 24.467,27.706 24.467,26.025 L24.467,10.914 L20.039,10.914 Z" id="Path" fill="url(#linearGradient-3)"></path>
+        </g>
+    </g>
+</svg>

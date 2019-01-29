@@ -1,1 +1,14 @@
-<svg enable-background="new 0 0 60 40" height="40" viewBox="0 0 60 40" width="60" xmlns="http://www.w3.org/2000/svg"><switch><foreignObject height="1" requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" width="1"/><g><path d="m60 35c0 2.75-2.25 5-5 5h-50c-2.75 0-5-2.25-5-5v-30c0-2.75 2.25-5 5-5h50c2.75 0 5 2.25 5 5z" fill="#152884"/><path d="m0 23.466v11.534c0 2.75 2.25 5 5 5h50c2.75 0 5-2.25 5-5v-10.166c-10.932-3.644-30.186-8.949-60-1.368z" fill="#ffed00"/><path d="m0 22.63v5.839c29.814-7.58 49.068-2.275 60 1.367v-6.098c-7.619-2.826-30.509-9.152-60-1.108z" fill="#eb212e"/><path d="m18.975 19.159c1.499-4.143 4.93-7.721 10.892-7.682 5.961.04 9.937 3.445 11.01 7.9-7.682-.798-12.803-.938-21.902-.218z" fill="#ffed00"/><path d="m55 0h-50c-2.75 0-5 2.25-5 5v30c0 2.75 2.25 5 5 5h50c2.75 0 5-2.25 5-5v-30c0-2.75-2.25-5-5-5zm0 1c2.206 0 4 1.794 4 4v30c0 2.206-1.794 4-4 4h-50c-2.206 0-4-1.794-4-4v-30c0-2.206 1.794-4 4-4z" fill="#fff" opacity=".25"/></g></switch></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="40px" viewBox="0 0 60 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="aura-v2">
+            <path d="M0,23.466 L0,35 C0,37.75 2.25,40 5,40 L55,40 C57.75,40 60,37.75 60,35 L60,24.834 C49.068,21.19 29.814,15.885 0,23.466 Z" id="Path" fill="#FFED00"></path>
+            <path d="M0,23.466 L0,5 C0,2.25 2.25,0 5,0 L55,0 C57.75,0 60,2.25 60,5 L60,24.834 C49.068,21.19 29.814,15.885 0,23.466 Z" id="Combined-Shape" fill="#152884"></path>
+            <path d="M0,22.63 L0,28.469 C29.814,20.889 49.068,26.194 60,29.836 L60,23.738 C52.381,20.912 29.491,14.586 0,22.63 Z" id="Path" fill="#EB212E"></path>
+            <path d="M18.975,19.159 C20.474,15.016 23.905,11.438 29.867,11.477 C35.828,11.517 39.804,14.922 40.877,19.377 C33.195,18.579 28.074,18.439 18.975,19.159 Z" id="Path" fill="#FFED00"></path>
+        </g>
+    </g>
+</svg>
