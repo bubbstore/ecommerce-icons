@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="57px" height="57px" viewBox="0 0 57 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 41</title>
+    <desc>Created with Sketch.</desc>
+    <g id="HOME" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-41">
+            <path d="M28.6,56.5 C13.2,56.5 0.6,43.9 0.6,28.5 C0.6,13.1 13.2,0.5 28.6,0.5 C44,0.5 56.6,13.1 56.6,28.5 C56.6,43.9 44.1,56.5 28.6,56.5 Z" id="Path" fill="#B0D137"></path>
+            <path d="M28.6,14 C20.6,14 14.1,20.5 14.1,28.5 C14.1,30.7 14.6,32.8 15.5,34.6 C15.5,34.6 16,35.6 15.1,36.6 L12,39.7 C10.4,41.3 10.4,43.8 12,45.4 C12.8,46.2 13.8,46.6 14.9,46.6 C15.9,46.6 17,46.2 17.8,45.4 L21.2,42 C21.4,41.8 21.9,41.5 23.1,41.8 C24.8,42.5 26.7,43 28.7,43 C36.7,43 43.2,36.5 43.2,28.5 C43,20.5 36.6,14 28.6,14 Z" id="Path" fill="#FFFFFF"></path>
+            <circle id="Oval" fill="#B0D137" cx="28.6" cy="28.5" r="7.3"></circle>
+        </g>
+    </g>
+</svg>
