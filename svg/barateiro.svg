@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="52px" viewBox="0 0 47 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>barateiro</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="50%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FBB325" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FCAF17" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="RELATORIOS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-212.000000, -181.000000)">
+            <g id="barateiro" transform="translate(212.000000, 181.000000)">
+                <path d="M19.5,52 C8.73044738,52 0,43.2695526 0,32.5 C0,21.7304474 8.73044738,13 19.5,13 C30.2695526,13 39,21.7304474 39,32.5 C39,43.2695526 30.2695526,52 19.5,52 Z M19.5,44 C25.8512746,44 31,38.8512746 31,32.5 C31,26.1487254 25.8512746,21 19.5,21 C13.1487254,21 8,26.1487254 8,32.5 C8,38.8512746 13.1487254,44 19.5,44 Z" id="Oval" fill="#CD0050" fill-rule="nonzero"></path>
+                <path d="M46.5419922,13.9375824 L20,32.2691254 L20,0.0113129147 C25.6019136,-0.124436043 30.6019136,0.961501457 35,3.26912541 C39.3980864,5.57674937 43.2454172,9.13290172 46.5419922,13.9375824 Z" id="Path-3" fill="url(#linearGradient-1)" fill-rule="evenodd"></path>
+            </g>
+        </g>
+    </g>
+</svg>
