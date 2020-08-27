@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="http://blog.bubbstore.com.br/wp-content/uploads/2017/02/logo@2x.png" height="50">
+  <img src="http://blog.bubbstore.com.br/wp-content/uploads/2017/02/logo@2x.png" height="50" >
 </p>
 
 # Ícones para e-commerce 
