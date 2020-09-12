@@ -1,6 +1,6 @@
 # ecommerce-icons
 
-A nicely repository with a lot of e-commerce brand icons.
+A nicely repository with e-commerce brand icons.
 
 ## Contributing
 
