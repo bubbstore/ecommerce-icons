@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="110px" height="120px" viewBox="0 0 110 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="40.6575453%" y1="16.2530805%" x2="58.6828126%" y2="87.0652276%" id="linearGradient-1">
+            <stop stop-color="#267CAD" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#2C83B0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="44.0170383%" y1="110.605985%" x2="61.6793878%" y2="5.11039444%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-9.3%" y="-8.3%" width="118.5%" height="116.5%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="3" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="RELATORIOS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-86.000000, -66.000000)">
+            <g id="Group-2" transform="translate(89.000000, 69.000000)">
+                <g id="Group">
+                    <polygon id="Path-3" fill="#5EB3EA" points="-5.68434189e-14 19.9515904 73.351702 -1.42108547e-14 103.789621 93.7140765 20.4285714 116.278181"></polygon>
+                    <polygon id="Path-3" fill="url(#linearGradient-1)" opacity="0.799999952" points="-5.68434189e-14 19.9515904 73.351702 0 103.789621 93.7140765 20.4285714 116.278181"></polygon>
+                    <polygon id="Path-3" fill="url(#linearGradient-2)" opacity="0.599999964" filter="url(#filter-3)" points="3.71428571 21.9269591 72.4722137 3.25 101.003906 90.97704 22.8634834 112.099609"></polygon>
+                </g>
+                <circle id="Oval" fill="#FFFFFF" cx="12.0714286" cy="28.7857143" r="3.71428571"></circle>
+                <circle id="Oval-Copy" fill="#FFFFFF" cx="66.8571429" cy="14.3928571" r="3.71428571"></circle>
+                <path d="M11.1428571,33.0624797 L14.7985304,32.4052344 C15.6082323,36.9088885 19.6065885,42.7715642 25.0619318,46.6110439 C31.8412347,51.3823287 40.1126827,52.810475 49.2533208,49.8624329 C62.5911112,45.5607237 68.1993669,35.3211128 66.2203643,18.5422119 L69.9090813,18.1071429 C72.0844686,36.5510843 65.5318239,48.5149704 50.3934239,53.3974129 C40.1149824,56.7124198 30.6354774,55.0756906 22.9241858,49.6484706 C16.7002501,45.2680542 12.1333562,38.5717478 11.1428571,33.0624797 Z" id="Path-4" fill="#5488AD" fill-rule="nonzero"></path>
+                <path d="M10.2142857,29.348194 L13.869959,28.6909487 C14.6796609,33.1946028 18.6780171,39.0572785 24.1333603,42.8967582 C30.9126632,47.668043 39.1841112,49.0961893 48.3247494,46.1481472 C61.6625398,41.846438 67.2707954,31.6068271 65.2917928,14.8279262 L68.9805099,14.3928571 C71.1558972,32.8367985 64.6032525,44.8006846 49.4648525,49.6831272 C39.186411,52.998134 29.706906,51.3614048 21.9956144,45.9341849 C15.7716787,41.5537685 11.2047847,34.8574621 10.2142857,29.348194 Z" id="Path-4" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
